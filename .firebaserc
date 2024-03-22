@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtdb-home-sav": {
+      "hosting": {
+        "app": [
+          "rtdb-home-sav"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtdb-home-sav"
+  }
+}
